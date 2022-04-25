@@ -1,0 +1,4 @@
+3D Scene,Message,View Pos x,View Pos Y,View Pos Z,View Yaw,View Pitch,View Roll
+Dojo,Welcome,,2,2,90,0,0
+Piazza,Hello,1,1.8,0,180,0,0
+Lab,Greetings,0,1.7,-2,0,0,0
